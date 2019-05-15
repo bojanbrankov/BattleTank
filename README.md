@@ -1,2 +1,2 @@
 # BattleTank
-Simple tank battle vs AI
+Simple tank battle vs AI.
